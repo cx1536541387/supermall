@@ -36,8 +36,6 @@ export default {
 }
 </script>
 
-<style>
-  .tab-bar{
-    z-index: 9
-  }
+<style scoped>
+
 </style>

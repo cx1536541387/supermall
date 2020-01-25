@@ -8,11 +8,11 @@
 
 <script>
 export default {
-
+  name:'FeatureView'
 }
 </script>
 
-<style>
+<style scoped>
   .feature img{
     width: 100%
   }

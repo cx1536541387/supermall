@@ -11,6 +11,7 @@
 
 <script>
 export default {
+  name:"RecommendView",
   props:{
     recommends:{
       type:Array,
@@ -22,7 +23,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
   .recommend{
     display: flex;
     width: 100%;
